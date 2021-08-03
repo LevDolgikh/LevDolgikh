@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LevDolgikh.
+- 👋 Hi, I’m Lev!
 - 👀 I'm interested in different things, just trying to do what i like to do. 
 I dont have any knowledge in computer science and programming, but i just enjoy to do some simple things.
 - 🌱 I’m currently learning basics of Python.
